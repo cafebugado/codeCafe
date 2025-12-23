@@ -79,22 +79,8 @@
 
 ## 📸 Screenshots
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Code Café                                    Projects ▼  Export│
-├──────────┬──────────────────────────┬─────────────────────────┤
-│          │ index.html  styles.css   │                         │
-│ Explorer │                          │      Live Preview       │
-│          │  <div class="container"> │                         │
-│ 📄 index │    <h1>Olá!</h1>         │    ┌─────────────────┐  │
-│ 📄 styles│  </div>                  │    │  Olá, Mundo!    │  │
-│          │                          │    │                 │  │
-│ ➕ Novo  │                          │    └─────────────────┘  │
-├──────────┴──────────────────────────┤                         │
-│ Console                             │                         │
-│ > 🚀 App carregado!                 │                         │
-└─────────────────────────────────────┴─────────────────────────┘
-```
+<img width="1909" height="939" alt="image" src="https://github.com/user-attachments/assets/b1250436-cff3-4bd4-adde-276290431fa6" />
+
 
 ## 🛠️ Tecnologias
 
